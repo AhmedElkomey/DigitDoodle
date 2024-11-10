@@ -1,0 +1,4 @@
+tensorflow
+pyqt5
+numpy
+matplotlib
