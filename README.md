@@ -3,7 +3,7 @@
 DigitDoodle is a fun and interactive application that lets users draw handwritten digits on a canvas and get instant recognition using a deep learning model. Built with PyQt for a smooth drawing experience and powered by TensorFlow for digit recognition, DigitDoodle demonstrates the practical power of machine learning in an intuitive way.
 
 ## demo
-<img src="demo.gif" alt="DigitDoodle demo gif" width="600">
+<img src="resources/demo.gif" alt="DigitDoodle demo gif" width="600">
 
 ## Features
 
