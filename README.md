@@ -126,6 +126,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Created by [Your Name or Username] – [Your Email or GitHub Link]
+Created by AhmedElkomey – ahmedelkomey961@gmail.com
 
 Happy Doodling with Digits! 🎨✨
